@@ -3,6 +3,16 @@ h1
     color:green;
 }
 
+article
+{
+    background-position: center;
+    background-repeat: repeat;
+     background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/1a/Donkey_in_Clovelly%2C_North_Devon%2C_England.jpg);
+    height: 500;
+    background-size: cover;
+    color: teal;
+    font-family: Times New Roman;
+}
 
 .blur
 {
